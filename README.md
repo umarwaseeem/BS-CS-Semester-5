@@ -1,6 +1,6 @@
 # BS-CS-Semester-5
 
-This repository consists of course materials used in `Semester 3` of Computer Science at <a href="https://www.nu.edu.pk/" > `Fast National University Of Computer And Emerging Sciences` <a>
+This repository consists of course materials used in `Semester 5` of Computer Science at <a href="https://www.nu.edu.pk/" > `Fast National University Of Computer And Emerging Sciences` <a>
 
 This may include:
 - Slides
