@@ -8,7 +8,29 @@ This may include:
 - Quizes
 - Exams / Exams Solutions
 
+## Online Resources / Youtube Channels: 📕📺
+
+1. ### Theory Of Automata / Computing 
+   - <a href = "https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev" >Neso Academy<a>
+   - <a href = "https://www.youtube.com/watch?v=XslI8h7cGDs&list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i" > Gate Smashers <a>
+   - <a href = "https://www.youtube.com/watch?v=p1oqDS0fayc&list=PL1QH9gyQXfgsUBfYUR0WirJASgif4pHVX" > The Gate Hub <a>
+   
+2. ### Probability And Statistics
+   - <a href = "https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19" > Khan Academy <a>
+   - <a href = "https://www.youtube.com/watch?v=GUQJ7zMoSCM&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV" > The Organic Chemistry Tutor <a>
+
+3. ### Computer Networks
+   - <a href = "https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_" > Gate Smashers <a>
+   - <a href = "https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx" >Neso Academy <a>
+
+
+
+
+<hr>
+
 Its possible that some stuff may be missing.
+
+<hr>
 
 ## How to contribute ? 🤔 
 
